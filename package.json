@@ -1,0 +1,30 @@
+{
+  "name": "zen6explore",
+  "version": "1.0.0",
+  "description": "working to understand npm etc",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.4.4",
+    "eslint": "^1.1.0",
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "kss": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goldieashe/zen6theme.git"
+  },
+  "keywords": [
+    "zen"
+  ],
+  "author": "mcase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goldieashe/zen6theme/issues"
+  },
+  "homepage": "https://github.com/Goldieashe/zen6theme#readme"
+}
